@@ -22,10 +22,10 @@ Este mini-framework está atualmente em fase de testes e não está disponível 
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu_usuario/seu_repositorio.git
+git clone https://github.com/quaghate/DataExpansion.git
 
 # Navegue até o diretório do projeto
-cd seu_repositorio
+cd DataExpansion.git
 ```
 ## Contribuindo
 Contribuições são bem-vindas! Se desejar contribuir com este projeto, crie um pull request. Observe que, como este código foi gerado com a ajuda de IA, a IA também pode ser usada para revisar seu código. Oculte informações confidenciais, como senhas, e-mails etc. em seus pull requests.
